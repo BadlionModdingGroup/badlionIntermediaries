@@ -1,2 +1,4 @@
 withMinecraft/
 withoutMinecraft/
+intermediaries/*.jar
+intermediaries/*.match
