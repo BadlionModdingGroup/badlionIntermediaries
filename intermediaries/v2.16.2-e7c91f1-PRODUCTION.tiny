@@ -3974,7 +3974,7 @@ METHOD	net/badlion/a/ba	(I)Lpk;	a	method_3321
 METHOD	net/badlion/a/ba	(Lads;Lcj;)I	a	method_3322
 METHOD	net/badlion/a/ba	(Lcj;)Z	a	method_3323
 METHOD	net/badlion/a/ba	(Lcj;Lakw;)V	a	method_3324
-METHOD	net/badlion/a/ba	(Lcj;Lalz;I)Z	a	method_3325
+METHOD	net/badlion/a/ba	(Lcj;Lalz;I)Z	a	method_6347
 METHOD	net/badlion/a/ba	(Lcj;)Lady;	b	method_6132
 METHOD	net/badlion/a/ba	(Lcj;)Z	d	method_3327
 METHOD	net/badlion/a/ba	(Lcj;Z)Z	d	method_3328
